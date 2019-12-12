@@ -5,7 +5,7 @@
 Four adorable animals are in danger and only we, with our knowledge of media
 queries, absolute positioning and responsive design techniques, can save them.
 
-## Objectives
+ ## Objectives
 
 1. Practice writing media queries
 2. Practice using absolute positioning
